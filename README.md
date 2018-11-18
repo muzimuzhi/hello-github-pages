@@ -13,7 +13,7 @@ list
 
 *emphasis*
 
-```latex
+```tex
 % beamerbasesection.sty, line 256:
 \newcommand\abc{%
   aa \emph{bb} cc
