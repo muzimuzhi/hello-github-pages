@@ -15,5 +15,7 @@ list
 
 ```latex
 % beamerbasesection.sty, line 256:
-\newcommand\abc{aa \emph{bb} cc}
+\newcommand\abc{%
+  aa \emph{bb} cc
+}
 ```
