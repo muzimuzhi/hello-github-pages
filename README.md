@@ -43,5 +43,5 @@ list
     \hyper@anchorstart{Outline\the\c@part.\the\c@section.\the\c@subsection.\the\c@page}\hyper@anchorend%
     \ifblank{#2}{\beamer@atbeginsubsections}{\beamer@atbeginsubsection}%
   \fi%
-  \beamer@resumemode}
+  \beamer@resumemode%}
 ```
