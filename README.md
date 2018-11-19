@@ -13,9 +13,9 @@ list
 
 *emphasis*
 
+{% raw %}
 ```tex
 % beamerbasesection.sty, line 256:
-{% raw %}
 \def\beamer@subsection[#1]#2{%
   \beamer@savemode%
   \mode<all>%
@@ -44,5 +44,6 @@ list
     \hyper@anchorstart{Outline\the\c@part.\the\c@section.\the\c@subsection.\the\c@page}\hyper@anchorend%
     \ifblank{#2}{\beamer@atbeginsubsections}{\beamer@atbeginsubsection}%
   \fi%
-  \beamer@resumemode}{% endraw %}
+  \beamer@resumemode}
 ```
+{% endraw %}
