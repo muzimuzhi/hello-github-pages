@@ -9,7 +9,7 @@ list
 * item
 * item
 
-[link](github.com)
+[link](https://github.com)
 
 *emphasis*
 
