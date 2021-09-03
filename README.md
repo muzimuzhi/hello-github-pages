@@ -53,5 +53,7 @@ list
     \ifblank{#2}{\beamer@atbeginsubsections}{\beamer@atbeginsubsection}%
   \fi%
   \beamer@resumemode}
+
+$\{ w_i \}_ {i=1}^{k}$
 ```
 {% endraw %}
